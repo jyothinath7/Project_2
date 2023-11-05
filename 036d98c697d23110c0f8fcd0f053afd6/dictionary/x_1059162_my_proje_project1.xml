@@ -33,6 +33,8 @@
                 <element inactive="true" inactive_on_update="true" label="Waiting For Kit" sequence="2" value="waiting for kit"/>
             </choice>
         </element>
+        <element attributes="edge_encryption_enabled=true" label="Project Start Date" max_length="40" name="u_glide_date_2" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Enter Your Project Name" max_length="40" name="u_string_1" type="string"/>
         <index name="index">
             <element name="sys_class_name"/>
         </index>
