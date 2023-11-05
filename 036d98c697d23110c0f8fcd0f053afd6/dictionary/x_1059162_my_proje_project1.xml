@@ -16,6 +16,23 @@
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Short Description" max_length="400" name="short_description" type="string"/>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Laptop KIT Details" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Received" sequence="0" value="received"/>
+                <element inactive_on_update="false" label="Not Received" sequence="1" value="not received"/>
+                <element inactive_on_update="false" label="Waiting For Kit" sequence="2" value="waiting for kit"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="On Bording Status" max_length="40" name="u_choice_2" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Completed" sequence="0" value="completed"/>
+                <element inactive="true" inactive_on_update="true" label="Received" sequence="0" value="received"/>
+                <element inactive_on_update="false" label="Not Completed" sequence="1" value="not completed"/>
+                <element inactive="true" inactive_on_update="true" label="Not Received" sequence="1" value="not received"/>
+                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
+                <element inactive="true" inactive_on_update="true" label="Waiting For Kit" sequence="2" value="waiting for kit"/>
+            </choice>
+        </element>
         <index name="index">
             <element name="sys_class_name"/>
         </index>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Additional Information" section_id="604fe00a97163110c0f8fcd0f053af04" sys_domain="global" table="x_1059162_my_proje_project1" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-05 13:12:08</sys_created_on>
+            <sys_id>744fe00a97163110c0f8fcd0f053af72</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Additional Information" display_value="Additional Information" name="x_1059162_my_proje_project1" sys_domain="global" view="Default view">604fe00a97163110c0f8fcd0f053af04</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-05 13:12:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-05 13:12:08</sys_created_on>
+            <sys_id>f44fe00a97163110c0f8fcd0f053af72</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Additional Information" display_value="Additional Information" name="x_1059162_my_proje_project1" sys_domain="global" view="Default view">604fe00a97163110c0f8fcd0f053af04</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-05 13:12:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Additional Information</caption>
+            <header>false</header>
+            <name>x_1059162_my_proje_project1</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-05 13:12:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>604fe00a97163110c0f8fcd0f053af04</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1059162_my_proje_project1</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="My Project" source="x_1059162_my_proje">036d98c697d23110c0f8fcd0f053afd6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="My Project">036d98c697d23110c0f8fcd0f053afd6</sys_scope>
+            <sys_update_name>sys_ui_section_604fe00a97163110c0f8fcd0f053af04</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-05 13:12:07</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="My Project">036d98c697d23110c0f8fcd0f053afd6</application>
+        <file_path/>
+        <instance_id>ff1a3608db6a889007072f17d49619ef</instance_id>
+        <instance_name>dev97181</instance_name>
+        <name>sys_ui_section_604fe00a97163110c0f8fcd0f053af04</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Additional Information" section_id="604fe00a97163110c0f8fcd0f053af04" sys_domain="global" table="x_1059162_my_proje_project1" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>short_description</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-05 13:12:08</sys_created_on><sys_id>744fe00a97163110c0f8fcd0f053af72</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Additional Information" display_value="Additional Information" name="x_1059162_my_proje_project1" sys_domain="global" view="Default view">604fe00a97163110c0f8fcd0f053af04</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-05 13:12:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>description</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-05 13:12:08</sys_created_on><sys_id>f44fe00a97163110c0f8fcd0f053af72</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Additional Information" display_value="Additional Information" name="x_1059162_my_proje_project1" sys_domain="global" view="Default view">604fe00a97163110c0f8fcd0f053af04</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-05 13:12:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Additional Information</caption><header>false</header><name>x_1059162_my_proje_project1</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-05 13:12:07</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>604fe00a97163110c0f8fcd0f053af04</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1059162_my_proje_project1</sys_name><sys_overrides/><sys_package display_value="My Project" source="x_1059162_my_proje">036d98c697d23110c0f8fcd0f053afd6</sys_package><sys_policy/><sys_scope display_value="My Project">036d98c697d23110c0f8fcd0f053afd6</sys_scope><sys_update_name>sys_ui_section_604fe00a97163110c0f8fcd0f053af04</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-05 13:12:07</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>152000695</payload_hash>
+        <record_name>Project1</record_name>
+        <reverted_from/>
+        <source>8b6f984a97d23110c0f8fcd0f053afe0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-05 13:12:08</sys_created_on>
+        <sys_id>304fe00a97163110c0f8fcd0f053af74</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b9f9cb2fa0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-05 13:12:08</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>b84fe00a47163110ac8e8ab150f5d173</update_guid>
+        <update_guid_history>b84fe00a47163110ac8e8ab150f5d173:152000695</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-05 13:13:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>4306f1ee301340acb4c27afc6e819110</sys_id>
+        <sys_metadata>604fe00a97163110c0f8fcd0f053af04</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Additional Information</sys_name>
+        <sys_package display_value="My Project" source="x_1059162_my_proje">036d98c697d23110c0f8fcd0f053afd6</sys_package>
+        <sys_parent display_value="Project1">ea5e180a97d23110c0f8fcd0f053af40</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="My Project">036d98c697d23110c0f8fcd0f053afd6</sys_scope>
+        <sys_scope_delete display_value="">22a08c858f9f46ec91a3f0eed2762d19</sys_scope_delete>
+        <sys_update_name>sys_ui_section_604fe00a97163110c0f8fcd0f053af04</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_604fe00a97163110c0f8fcd0f053af04">304fe00a97163110c0f8fcd0f053af74</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-05 13:13:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
