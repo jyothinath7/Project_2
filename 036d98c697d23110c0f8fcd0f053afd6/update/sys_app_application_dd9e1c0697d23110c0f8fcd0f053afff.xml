@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description> this application creating from dev instance "ServiceNow Developer".</description>
+        <device_type>browser</device_type>
+        <hint> this application creating from dev instance "ServiceNow Developer".</hint>
+        <name/>
+        <order/>
+        <roles>x_1059162_my_proje.my_project</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-05 11:59:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>dd9e1c0697d23110c0f8fcd0f053afff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Project</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="My Project" source="x_1059162_my_proje">036d98c697d23110c0f8fcd0f053afd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Project">036d98c697d23110c0f8fcd0f053afd6</sys_scope>
+        <sys_update_name>sys_app_application_dd9e1c0697d23110c0f8fcd0f053afff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-05 11:59:16</sys_updated_on>
+        <title>My Project</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

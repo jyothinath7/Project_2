@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="fresher_experience" table="x_1059162_my_proje_project1" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>fresher_experience</element>
+            <name>x_1059162_my_proje_project1</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-05 11:58:16</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>fresher_experience</sys_name>
+            <sys_package display_value="My Project" source="x_1059162_my_proje">036d98c697d23110c0f8fcd0f053afd6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="My Project">036d98c697d23110c0f8fcd0f053afd6</sys_scope>
+            <sys_update_name>sys_choice_x_1059162_my_proje_project1_fresher_experience</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-05 11:58:16</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fresher_experience</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1 Year</label>
+            <language>en</language>
+            <name>x_1059162_my_proje_project1</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-05 11:58:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fe5e180a97d23110c0f8fcd0f053aff2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-05 11:58:16</sys_updated_on>
+            <value>1_year</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fresher_experience</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2 Year</label>
+            <language>en</language>
+            <name>x_1059162_my_proje_project1</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-05 11:58:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>365e180a97d23110c0f8fcd0f053aff6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-05 11:58:16</sys_updated_on>
+            <value>2_year</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fresher_experience</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>above 10 Years</label>
+            <language>en</language>
+            <name>x_1059162_my_proje_project1</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-05 11:58:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>325e180a97d23110c0f8fcd0f053affb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-05 11:58:16</sys_updated_on>
+            <value>above_10_years</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fresher_experience</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>above 5 Years</label>
+            <language>en</language>
+            <name>x_1059162_my_proje_project1</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-05 11:58:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ba5e180a97d23110c0f8fcd0f053aff8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-05 11:58:16</sys_updated_on>
+            <value>above_5_years</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fresher_experience</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No Experience</label>
+            <language>en</language>
+            <name>x_1059162_my_proje_project1</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-05 11:58:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b65e180a97d23110c0f8fcd0f053affd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-05 11:58:16</sys_updated_on>
+            <value>fresher</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

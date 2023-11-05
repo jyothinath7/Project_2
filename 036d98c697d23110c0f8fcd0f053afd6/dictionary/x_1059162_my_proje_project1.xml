@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ea5e180a97d23110c0f8fcd0f053af40" label="Project1" max_length="40" name="x_1059162_my_proje_project1" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Date of Joining" max_length="40" name="date_of_joining" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="4000" name="description" type="string"/>
+        <element label="EMPID" max_length="40" name="empid" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Fresher/Experience" max_length="40" name="fresher_experience" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="1 Year" value="1_year"/>
+                <element inactive_on_update="false" label="2 Year" value="2_year"/>
+                <element inactive_on_update="false" label="above 10 Years" value="above_10_years"/>
+                <element inactive_on_update="false" label="above 5 Years" value="above_5_years"/>
+                <element inactive_on_update="false" label="No Experience" value="fresher"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Short Description" max_length="400" name="short_description" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>
