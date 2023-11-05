@@ -35,6 +35,12 @@
         </element>
         <element attributes="edge_encryption_enabled=true" label="Project Start Date" max_length="40" name="u_glide_date_2" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" label="Enter Your Project Name" max_length="40" name="u_string_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Enter Employee Full Address Details" max_length="40" name="u_string_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="State" max_length="40" name="u_string_3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Mandal" max_length="40" name="u_string_4" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="District" max_length="40" name="u_string_5" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Pincode" max_length="40" name="u_string_6" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Alternative Details" max_length="40" name="u_string_7" type="string"/>
         <index name="index">
             <element name="sys_class_name"/>
         </index>
