@@ -35,6 +35,8 @@
         </element>
         <element attributes="edge_encryption_enabled=true" label="Project Start Date" max_length="40" name="u_glide_date_2" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" label="Enter Your Project Name" max_length="40" name="u_string_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Company Name" max_length="40" name="u_string_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Years of experience" max_length="40" name="u_string_3" type="string"/>
         <index name="index">
             <element name="sys_class_name"/>
         </index>
